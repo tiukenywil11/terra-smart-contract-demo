@@ -1,0 +1,14 @@
+{
+  "name": "my-first-contract-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenywil Tiu",
+  "license": "ISC",
+  "dependencies": {
+    "@terra-money/terra.js": "^3.0.11"
+  }
+}
